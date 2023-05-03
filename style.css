@@ -1,0 +1,32 @@
+body {
+  background-image: url("alien-g3952fd343_1920.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.box {
+  background-color: #fff;
+  max-width: 500px;
+  margin: 50px auto;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.349);
+  padding: 30px 20px;
+  background-color: rgb(255, 241, 219);
+}
+h1 {
+  text-align: center;
+  color: floralwhite;
+}
+button {
+  background-color: cadetblue;
+  border: 1px solid #777;
+  border-radius: 2px;
+  font-family: inherit;
+  font-size: 21px;
+  display: block;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.349);
+}
